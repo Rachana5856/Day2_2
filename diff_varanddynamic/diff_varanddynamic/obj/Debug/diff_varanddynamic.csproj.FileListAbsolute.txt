@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\diff_varanddynamic\diff_varanddynamic\bin\Debug\diff_varanddynamic.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\diff_varanddynamic\diff_varanddynamic\bin\Debug\diff_varanddynamic.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\diff_varanddynamic\diff_varanddynamic\bin\Debug\diff_varanddynamic.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\diff_varanddynamic\diff_varanddynamic\obj\Debug\diff_varanddynamic.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\diff_varanddynamic\diff_varanddynamic\obj\Debug\diff_varanddynamic.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\diff_varanddynamic\diff_varanddynamic\obj\Debug\diff_varanddynamic.pdb

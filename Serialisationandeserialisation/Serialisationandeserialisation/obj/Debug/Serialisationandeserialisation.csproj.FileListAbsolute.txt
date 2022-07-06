@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\Serialisationandeserialisation\Serialisationandeserialisation\bin\Debug\Serialisationandeserialisation.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\Serialisationandeserialisation\Serialisationandeserialisation\bin\Debug\Serialisationandeserialisation.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Serialisationandeserialisation\Serialisationandeserialisation\bin\Debug\Serialisationandeserialisation.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\Serialisationandeserialisation\Serialisationandeserialisation\obj\Debug\Serialisationandeserialisation.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\Serialisationandeserialisation\Serialisationandeserialisation\obj\Debug\Serialisationandeserialisation.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Serialisationandeserialisation\Serialisationandeserialisation\obj\Debug\Serialisationandeserialisation.pdb

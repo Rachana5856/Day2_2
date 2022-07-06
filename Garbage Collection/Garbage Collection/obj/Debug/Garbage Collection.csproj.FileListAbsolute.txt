@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\Garbage Collection\Garbage Collection\bin\Debug\Garbage Collection.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\Garbage Collection\Garbage Collection\bin\Debug\Garbage Collection.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Garbage Collection\Garbage Collection\bin\Debug\Garbage Collection.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\Garbage Collection\Garbage Collection\obj\Debug\Garbage Collection.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\Garbage Collection\Garbage Collection\obj\Debug\Garbage Collection.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Garbage Collection\Garbage Collection\obj\Debug\Garbage Collection.pdb
